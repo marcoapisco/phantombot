@@ -1,9 +1,9 @@
 ## Phantom Bot
 
-An old bot utilized for (PhantomHQ)[https://phantomhq.club], a revamp of an old 2019 server.
+An old bot utilized for [PhantomHQ](https://phantomhq.club), a revamp of an old 2019 server with the same name.
 
 ### Project details
-This bot was made in (Discord Bot Maker)[https://store.steampowered.com/app/682130/Discord_Bot_Maker/], a 10$ Steam game which allows you to visually edit programs. There are actions also used from the (DBM-Network/mods)[https://github.com/dbm-network/mods] repository.
+This bot was made in [Discord Bot Maker](https://store.steampowered.com/app/682130/Discord_Bot_Maker/), a 10$ Steam game which allows you to visually edit programs. There are actions also used from the [DBM-Network/mods](https://github.com/dbm-network/mods) repository.
 
 I'm not giving you a tutorial on how to import the files into the game, learn it yourself.
 
